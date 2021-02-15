@@ -10,7 +10,7 @@
 ### Requirements
 
 ```
-jupyter / jupyter
+jupyter / python
 tensorflow
 theano
 numpy
@@ -19,20 +19,6 @@ matplotlib
 scikit-learn
 
 ```
-
-### Installation
-
-The code was tested on jupyter
-
-Install dependencies:
-```
-Shell pip install tensorflow numpy pandas matplotlib   
-```
-
-If installed correctly, the result should look like this: [result1.png][result2.png]
-
-*For more details, please see in: [demo1][demo2]
-
 
 
 
