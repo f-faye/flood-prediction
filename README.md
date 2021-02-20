@@ -10,7 +10,9 @@
 ### Requirements
 
 ```
-The programming language of choice is Jupyter Notebook 6.1.4. The libraries used for preprocessing data and for data management in general are Numpy, Pandas, and Scikit-Learn . The Deep-Learning frameworks used are TensorFlow and Keras. The figures are made using Matplotlib
+The programming language is Jupyter Notebook 6.1.4. 
+The libraries used for preprocessing data and for data management are Numpy, Pandas, and Scikit-Learn . 
+The Deep-Learning frameworks used are TensorFlow and Keras. The figures are made using Matplotlib
 ```
 
 
