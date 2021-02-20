@@ -1,4 +1,4 @@
-# LSTM neural network Model for flood/ river water level Prediction
+# LSTM neural network model for flood prediction
 
 ### Introduction
 
