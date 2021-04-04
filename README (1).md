@@ -2,7 +2,7 @@
 
 ### Introduction
 
-* Developing a Long Short-Term Memory(LSTM) model for predicting flood/ river water level, by using historical water
+* Developing a Long Short-Term Memory(LSTM) model for predicting flood/ river water level using historical water
   level data*.
 
 **[water-level-Prediction-Python] (https://github.com/f-faye/flood-prediction)!**
@@ -22,7 +22,7 @@ scikit-learn
 
 ### Installation
 
-The code was tested on jupyter
+Code tested on jupyter notebook
 
 
 
